@@ -106,13 +106,7 @@ prefix: 'both' (prefix nonprefix both work)
     cd NAYAN-WHATSAPP-BOT
     ```
 
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
+2  **Run the bot:**
 
     ```bash
     node index.js
